@@ -1,0 +1,41 @@
+@page {
+  width: A4;
+  margin: 0;
+  color: #222;
+}
+body {
+  background: none;
+  color: black;
+}
+.content {
+  padding-top: 1em;
+}
+.print-btn,
+.wrapper {
+  display: none;
+}
+table {
+  border-color: #222;
+}
+table tr td {
+  color: #222;
+}
+.error-msg,
+.number-of-rows {
+  display: none;
+}
+.bottom-field {
+  display: none;
+}
+.top-btn {
+  display: none;
+}
+.total__container .total small {
+  color: white;
+}
+.text-black {
+  color: black;
+}
+footer {
+  display: none;
+}
